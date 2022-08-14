@@ -1,0 +1,42 @@
+{
+  "name": "Unidoodle #646",
+  "description": "Unidoodle is a collection of 908 NFTs",
+  "file_url": "https://raw.githubusercontent.com/unidoodle/unidoodlenft/main/646.png",
+  "image": "https://raw.githubusercontent.com/unidoodle/unidoodlenft/main/646.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Purple Head"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Pink Sweater"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Hey YOU"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Green Hair"
+    },
+    {
+      "trait_type": "Corn",
+      "value": "Light Purple Corn"
+    }
+  ],
+  "custom_fields": {
+    "dna": "cb47b9e6b8bbc438a1d09f301e54ccb9aeff46ea",
+    "edition": 646,
+    "date": 1647669977631
+  },
+  "external_url": "https://unidoodle.xyz"
+}

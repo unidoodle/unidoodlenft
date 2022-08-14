@@ -1,0 +1,18 @@
+{
+  "name": "Unidoodle #218",
+  "description": "Unidoodle is a collection of 908 NFTs",
+  "file_url": "https://raw.githubusercontent.com/unidoodle/unidoodlenft/main/218.png",
+  "image": "https://raw.githubusercontent.com/unidoodle/unidoodlenft/main/218.png",
+  "attributes": [
+    {
+      "trait_type": "1 of 1",
+      "value": "#218"
+    }
+  ],
+  "custom_fields": {
+    "dna": "9765bc7064932a580b7e331694d84aad1ef964e9",
+    "edition": 218,
+    "date": 1647669786672
+  },
+  "external_url": "https://unidoodle.xyz"
+}

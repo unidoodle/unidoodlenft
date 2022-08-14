@@ -1,0 +1,42 @@
+{
+  "name": "Unidoodle #353",
+  "description": "Unidoodle is a collection of 908 NFTs",
+  "file_url": "https://raw.githubusercontent.com/unidoodle/unidoodlenft/main/353.png",
+  "image": "https://raw.githubusercontent.com/unidoodle/unidoodlenft/main/353.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Night Sky"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Green Head"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Purple Sweater"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rare Stoner Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Gray Hair"
+    },
+    {
+      "trait_type": "Corn",
+      "value": "Light Pink Corn"
+    }
+  ],
+  "custom_fields": {
+    "dna": "eed16854d71029a6acbcc2c1c5459c549f192f88",
+    "edition": 353,
+    "date": 1647669848533
+  },
+  "external_url": "https://unidoodle.xyz"
+}
